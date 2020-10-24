@@ -6,3 +6,4 @@ Diving deep on BERT Transformer
 3. Quiz - Predict Quiz using Bert MaskLM
 4. Explore XLMR vocabulary
 5. Smart Batching - https://towardsdatascience.com/divide-hugging-face-transformers-training-time-by-2-or-more-21bf7129db9q-21bf7129db9e
+6. Early Stopping using "simple transformers" library
